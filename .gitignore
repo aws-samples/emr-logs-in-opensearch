@@ -1,0 +1,5 @@
+.terraform*
+*terraform.tfstate*
+
+*_package-build/
+*.zip
